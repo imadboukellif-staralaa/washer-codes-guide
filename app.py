@@ -1371,6 +1371,8 @@ HTML_PAGE=r"""<!doctype html>
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="utf-8">
+  <meta name="google-site-verification" content="ZPbOPrih3Mge-AEVmxnxKyTIuQ_IpFJXpehJi6NtsJE" />
+  <meta name="description" content="دليل أكواد أعطال غسالات سامسونج وإل جي مع خطوات الفحص والحل">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>دليل أعطال الغسالات - Samsung & LG</title>
   <style>
