@@ -1367,7 +1367,7 @@ def save_json_list(filepath, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 
-HTML_PAGE = """<!doctype html>
+HTML_PAGE=r"""<!doctype html>
 <html lang="ar" dir="rtl">
 <head>
   <meta charset="utf-8">
@@ -2149,4 +2149,4 @@ def api_owner_data():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=5000, debug=True)
+    app.run(host="0.0.0.0", port=5000,debug=False)
